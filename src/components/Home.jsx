@@ -28,11 +28,11 @@ function Home() {
 
       {/* <Parentt /> */}
 
-      {/* <Gela /> */}
+      <Gela />
 
       {/* <Reducer /> */}
 
-      <Todos />
+      {/* <Todos /> */}
     </div>
   );
 }
